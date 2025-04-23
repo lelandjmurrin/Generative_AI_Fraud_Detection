@@ -1,0 +1,4 @@
+.DS_Store
+MNIST/
+fraud_data.csv
+*.png
